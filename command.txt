@@ -1,1 +1,1 @@
-open webpage www.google.com
+send message thanks
