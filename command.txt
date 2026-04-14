@@ -1,1 +1,1 @@
-send message hello
+send message hello!
