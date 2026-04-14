@@ -1,1 +1,1 @@
-open webpage www.finn.no
+send message hei på deg
